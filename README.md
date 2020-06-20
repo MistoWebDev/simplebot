@@ -1,7 +1,7 @@
 # How to set up SIMPLE BOT!
 
 
-1. Run npm install
+1. Run install dep.bat
 
 2. Open up botconfig.json and insert your token where it says "TOKENHERE"
 
